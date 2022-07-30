@@ -1,0 +1,14 @@
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\bin\Debug\netcoreapp3.1\Semana_2.exe
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\bin\Debug\netcoreapp3.1\Semana_2.deps.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\bin\Debug\netcoreapp3.1\Semana_2.runtimeconfig.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\bin\Debug\netcoreapp3.1\Semana_2.runtimeconfig.dev.json
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\bin\Debug\netcoreapp3.1\Semana_2.dll
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\bin\Debug\netcoreapp3.1\Semana_2.pdb
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.csproj.AssemblyReference.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.AssemblyInfoInputs.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.AssemblyInfo.cs
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.csproj.CoreCompileInputs.cache
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.dll
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.pdb
+C:\Users\luis.pena\Documents\cursos\C#\Semana02\Semana_2\Semana_2\obj\Debug\netcoreapp3.1\Semana_2.genruntimeconfig.cache
